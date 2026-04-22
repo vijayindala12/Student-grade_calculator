@@ -8,7 +8,7 @@ This is a simple Python program to calculate total marks, average, and grade.
 - Display grade
 
 ## Author
-VIJAY INDALA
+Vijay indala
 
 ## How to Run
 
